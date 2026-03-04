@@ -10,9 +10,17 @@
 </p>
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"></a>
+<a href="https://www.linkedin.com/in/divya-thakurr" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://www.youtube.com/c/DivyaThakur" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube">
+</a>
+
+<a href="https://github.com/DivyaThakur24" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
+</a>
 </p>
 
 ---
