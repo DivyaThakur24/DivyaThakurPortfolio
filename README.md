@@ -1,161 +1,123 @@
-# 👩‍💻 Divya Thakur
+<h1 align="center">Hi 👋, I'm Divya Thakur</h1>
 
-**Data Scientist | AI Automation Engineer | Data Science Educator**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;AI+Automation+Engineer;Machine+Learning+Practitioner;Data+Science+Educator&center=true&width=500&height=45">
+</p>
 
+<p align="center">
 📍 Ajmer, India  
-📧 ayvid.thakur@gmail.com  
+📧 ayvid.thakur@gmail.com
+</p>
 
-🔗 LinkedIn | GitHub | YouTube  
-
----
-
-# 🚀 Portfolio
-
-Welcome to my portfolio.
-
-I am a **Data Science professional with 6+ years of experience** in analytics, machine learning, and technical education, combined with **industry experience in building data automation and intelligence systems**.
-
-My work focuses on:
-
-- Data Analysis & Machine Learning  
-- AI Automation Systems  
-- Data Engineering Pipelines  
-- Statistical Experimentation  
-
-I have trained **50,000+ learners** and built multiple **data-driven systems and analytics projects**.
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="#"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"></a>
+</p>
 
 ---
 
-# 📊 Professional Highlights
+# 🚀 About Me
 
-- 👩‍🏫 **50,000+ students taught** across multiple learning platforms  
-- 📚 **50+ technical courses developed**  
-- 🎥 **200+ tutorials published**  
-- ⭐ **4.9/5 average learner rating**  
-- 🧠 **Top 10% Mentor at Udacity**  
-- ⚙️ **Industry experience building AI-powered automation pipelines**
+I am a **Data Scientist and AI Automation Engineer** with **6+ years of experience** in analytics, machine learning, and technical education.
 
----
+I focus on building **scalable AI systems and data pipelines** that transform raw data into actionable insights.
 
-# 🛠 Technical Skills
+Highlights:
 
-## Programming
-Python • SQL • R  
-
-## Data Science & Machine Learning
-EDA • Hypothesis Testing • A/B Testing • Regression • Machine Learning  
-
-## Data Tools
-Power BI • Tableau • Excel • Spark • PyTorch  
-
-## Data Engineering
-ETL Pipelines • Data Cleaning • Workflow Automation • n8n  
+• 👩‍🏫 50,000+ learners trained  
+• 📚 50+ technical courses developed  
+• 🎥 200+ tutorials published  
+• ⭐ 4.9/5 learner rating  
+• 🧠 Top 10% Udacity Mentor  
 
 ---
 
-# 💼 Work Experience
+# 🧠 Tech Stack
 
-## Data Automation & Engineering Intern — LabelNest  
+### Programming
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange?style=flat&logo=postgresql)
+![R](https://img.shields.io/badge/R-blue?style=flat&logo=r)
+
+### Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![EDA](https://img.shields.io/badge/EDA-purple)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-yellow)
+
+### Data Tools
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-blue)
+![Excel](https://img.shields.io/badge/Excel-green)
+
+### Data Engineering
+![Spark](https://img.shields.io/badge/Spark-orange)
+![AWS](https://img.shields.io/badge/AWS-black)
+![ETL](https://img.shields.io/badge/ETL-blue)
+
+---
+
+# 💼 Industry Experience
+
+### Data Automation & Engineering Intern — LabelNest  
 **Nov 2025 – Feb 2026**
 
-- Built end-to-end **data automation pipelines** using Python, SQL, and n8n.
-- Developed **Contact Intelligence and Private Market News Intelligence systems**.
-- Automated workflows for **data extraction, cleaning, validation, and structuring**.
-- Collaborated with product and research teams to build scalable automation pipelines.
+• Built AI-driven **data automation pipelines** using Python, SQL, and n8n  
+• Developed **Contact Intelligence & Private Market Intelligence systems**  
+• Automated **data extraction, validation, and structuring workflows**  
+• Collaborated with product and research teams on **scalable automation systems**
 
 ---
 
-## Data Science Educator — Eduonix  
-**Nov 2022 – July 2025**
+# ⭐ Featured Projects
 
-- Developed courses in **Python, Excel, Power BI, and Machine Learning**.
-- Designed grading frameworks reducing evaluation time by **30%**.
-- Created corporate training programs adopted by multiple startups.
+## 📊 A/B Testing for E-Commerce
 
----
+**Objective**
 
-## Educator — Testbook  
-**Jan 2022 – Aug 2022**
-
-Co-developed **Data Science Career Track curriculum** covering:
-
-- Python for EDA  
-- SQL analytics  
-- Power BI dashboards  
-
----
-
-## Lead Instructor — Code Heroku  
-**Mar 2019 – Mar 2020**
-
-Delivered workshops on:
-
-- Data Science with Python  
-- Machine Learning pipelines  
-- Cloud data engineering using AWS & Spark  
-
----
-
-## Mentor — Udacity
-
-- Mentored **80+ Data Analyst Nanodegree students**.
-- Specialized in:
-  - SQL optimization  
-  - Python programming  
-  - Statistical testing  
-  - Tableau dashboards  
-
----
-
-## Educator — Unacademy
-
-- Created **200+ tutorials** on programming and quantitative reasoning.
-- Maintained **4.9/5 learner rating**.
-- Built **10K+ subscriber audience**.
-
----
-
-# 📂 Key Projects
-
-## 1️⃣ A/B Testing for E-Commerce
-
-### Objective
 Evaluate whether a new webpage improves conversion rates.
 
-### Approach
-- Conducted statistical hypothesis testing
-- Implemented logistic regression model
+**Approach**
 
-### Outcome
-The analysis showed the **existing webpage performed better statistically**.
+• Statistical hypothesis testing  
+• Logistic regression modeling  
 
-### Tech Stack
+**Outcome**
+
+The existing webpage performed **better statistically**.
+
+**Tech Stack**
+
 Python • Pandas • Statsmodels
 
 ---
 
-## 2️⃣ Private Market Intelligence Workflow
+## 🧠 Private Market Intelligence Workflow
 
-### Objective
+**Objective**
+
 Convert unstructured private market news into structured intelligence.
 
-### Approach
-- Automated ingestion of market news
-- Implemented entity extraction pipelines
-- Built validation layers to reduce noise
+**Approach**
 
-### Outcome
-Enabled scalable monitoring of private market activities with structured data.
+• Automated news ingestion  
+• Entity extraction pipelines  
+• Validation layers to reduce noise  
 
-### Tech Stack
+**Outcome**
+
+Enabled scalable monitoring of **private market activity**.
+
+**Tech Stack**
+
 Python • SQL • Automation Workflows
 
 ---
 
-## 3️⃣ Spark Data Lake (AWS)
+## ☁️ Spark Data Lake (AWS)
 
-- Built **ETL pipeline** for a music streaming startup.
-- Processed **JSON data stored in S3 using Spark**.
+• Built ETL pipeline for a music streaming startup  
+• Processed JSON data using **Apache Spark + AWS S3**
 
 ---
 
@@ -169,80 +131,50 @@ Bhagwant University, Ajmer
 
 ---
 
-# 🏅 Scholastic Achievements
+# 🏅 Achievements
 
 ### AMCAT Scores
-- Programming: **96.8%**
-- English: **97%**
-- Quantitative: **91%**
 
-### Udacity Nanodegrees
-- Data Analyst
-- Data Foundations
-- Android Basics
+Programming — **96.8%**  
+English — **97%**  
+Quantitative — **91%**
 
 ### Scholarships
-- Google Android Scholarship
-- Facebook PyTorch Scholarship
-- AWS Machine Learning Scholarship
+
+• Google Android Scholarship  
+• Facebook PyTorch Scholarship  
+• AWS Machine Learning Scholarship  
 
 ---
 
-# 🧪 Academic Projects
+# 📈 GitHub Stats
 
-### Stroop Effect Analysis
-Conducted **paired t-test analysis** to study cognitive reaction time and demonstrated statistically significant results.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DivyaThakur24&show_icons=true"/>
+</p>
 
-### Prosper Loan Data Analysis
-Explored borrower credit risk patterns and built visualizations identifying risk indicators.
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaThakur24"/>
+</p>
 
-### WeRateDogs Twitter Data Analysis
-Performed **data wrangling and exploratory analysis** to identify patterns in Twitter dog rating datasets.
-
----
-
-# 🏆 Internship Completion Certificate
-
-Successfully completed internship with **LabelNest India Private Limited** as a **Data Automation & Engineering Intern** from **7 Nov 2025 to 2 Feb 2026**.
-
-The certificate acknowledges **professionalism, responsibility, and effective contribution during the internship tenure**.
-
----
-
-# 📜 Recommendation Letter
-
-Received a professional recommendation from **LabelNest**, recognizing:
-
-- Professionalism and dedication  
-- Strong collaboration skills  
-- Ability to take ownership of technical tasks  
-- Positive work ethics and team contribution  
-
-Issued by **Ankit Kumar Suman (Founder & Director, LabelNest)**.
-
----
-
-# 🎯 Extracurricular Activities
-
-- Technical mentorship for data science learners
-- Creation of educational content on programming and analytics
-- Workshops on data science and machine learning
-- Online content creation and technical community engagement
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaThakur24&layout=compact"/>
+</p>
 
 ---
 
 # 🔬 Areas of Interest
 
-- Applied Machine Learning  
-- AI Automation Systems  
-- Data Engineering  
-- Statistical Experimentation  
-- Data Intelligence Platforms  
+• Applied Machine Learning  
+• AI Automation Systems  
+• Data Engineering  
+• Statistical Experimentation  
+• Data Intelligence Platforms  
 
 ---
 
 # 🤝 Let's Connect
 
-If you're working on **AI systems, analytics platforms, or data-driven products**, feel free to connect.
+If you're working on **AI systems, analytics platforms, or data-driven products**, feel free to reach out.
 
 📧 ayvid.thakur@gmail.com
