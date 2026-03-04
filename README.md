@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divya Thakur</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;AI+Automation+Engineer;Machine+Learning+Practitioner;Data+Science+Educator&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;AI+Automation+Engineer;Machine+Learning+Practitioner;Data+Science+Educator&center=true&width=500&height=45">
 </p>
 
 <p align="center">
