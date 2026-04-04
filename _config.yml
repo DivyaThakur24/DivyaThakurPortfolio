@@ -2,3 +2,12 @@ title: Divya Thakur Portfolio
 description: Portfolio site for Divya Thakur
 theme: minima
 markdown: kramdown
+header_pages:
+  - about.md
+  - experience.md
+  - projects.md
+  - education.md
+  - learning.md
+  - certifications.md
+  - achievements.md
+  - contact.md
