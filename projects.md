@@ -12,6 +12,11 @@ permalink: /projects/
 - Combined scraping, enrichment, and validation steps for scalable monitoring
 - Used Python, SQL, FastAPI, n8n, Playwright, and Selenium
 
+<div class="project-links">
+  <a href="https://github.com/DivyaThakur24/Online-Course-Bot">Related Repo</a>
+  <a class="secondary" href="https://github.com/DivyaThakur24/private-ai">More AI Work</a>
+</div>
+
 ### Fraud Detection Graph Database
 
 - Modeled users, transactions, cards, devices, IP addresses, and merchants in Neo4j
@@ -28,23 +33,43 @@ permalink: /projects/
 - Applied logistic regression to support product decisions
 - Recommended retaining the older webpage based on statistical evidence
 
+<div class="project-links">
+  <a href="https://github.com/DivyaThakur24/Data-Analyst-Nanodegree-Projects">Related Repo</a>
+</div>
+
 ### Stroop Effect Analysis
 
 - Applied paired t-tests to prove cognitive performance differences between congruent and incongruent conditions
 
+<div class="project-links">
+  <a href="https://github.com/DivyaThakur24/Data-Analyst-Nanodegree-Projects">Related Repo</a>
+</div>
+
 ### Prosper Loan EDA In R
 
 - Explored borrower credit trends, risk factors, and loan distributions in a large peer-to-peer lending dataset
+
+<div class="project-links">
+  <a href="https://github.com/DivyaThakur24/Data-Analyst-Nanodegree-Projects">Related Repo</a>
+</div>
 
 ### WeRateDogs Twitter Analysis
 
 - Wrangled multi-source data using the Twitter API and neural network predictions
 - Performed exploratory analysis on rating behavior and dog stage patterns
 
+<div class="project-links">
+  <a href="https://github.com/DivyaThakur24/Data-Analyst-Nanodegree-Projects">Related Repo</a>
+</div>
+
 ### Data Lake With Spark On AWS
 
 - Built an ETL pipeline processing JSON logs in S3 using Spark
 - Created an analytics-ready data engineering workflow for a music streaming startup
+
+<div class="project-links">
+  <a href="https://github.com/DivyaThakur24/Data-Analyst-Nanodegree-Projects">Related Repo</a>
+</div>
 
 ### Style Transfer Using CNNs
 
@@ -56,9 +81,17 @@ permalink: /projects/
 - Built an LSTM-based model for IMDB movie review classification
 - Applied deep learning sequence modeling techniques to text data
 
+<div class="project-links">
+  <a href="https://github.com/DivyaThakur24/Sentiment-Analysis-using-Neural-Network">Repo Link</a>
+</div>
+
 ### Speech-To-Text Recognition
 
 - Leveraged Google AI APIs for high-accuracy conversion of speech and music excerpts to text
+
+<div class="project-links">
+  <a href="https://github.com/DivyaThakur24/Speech-To-Text">Repo Link</a>
+</div>
 
 ### Stock Market Analysis In Python
 
@@ -72,6 +105,10 @@ permalink: /projects/
 ### SQL Music Store Analysis
 
 - Extracted customer and genre insights using advanced SQL queries and subqueries on the Chinook database
+
+<div class="project-links">
+  <a href="https://github.com/DivyaThakur24/DataFoundationsProjects">Related Repo</a>
+</div>
 
 ## GitHub Portfolio Projects
 
