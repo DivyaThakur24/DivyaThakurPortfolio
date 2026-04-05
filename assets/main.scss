@@ -223,7 +223,9 @@ a:hover {
   .hero-title {
     font-size: 1.7rem;
   }
+
+  .site-nav { 
+    background: #000000; 
+  }
 }
-@media screen and (max-width: 600px) {
-  .site-nav { background: #000000; }
-}
+
