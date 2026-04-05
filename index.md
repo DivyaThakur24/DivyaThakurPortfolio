@@ -8,9 +8,9 @@ permalink: /
   <h1 class="hero-title">Divya Thakur</h1>
   <p class="hero-subtitle">Data Science Educator, Data Automation Analyst, and builder of analytics, automation, and AI-driven workflows.</p>
   <div class="badge-row">
-    <span class="pill">📍 Ajmer, Rajasthan, India</span>
-    <span class="pill">📧 <a href="mailto:ayvid.thakur@gmail.com">ayvid.thakur@gmail.com</a></span>
-    <span class="pill">🤖 n8n · FastAPI · Playwright · Selenium</span>
+    <span class="pill">📍 Ajmer, Rajasthan, India</span> <br />
+    <span class="pill">📧 <a href="mailto:ayvid.thakur@gmail.com">ayvid.thakur@gmail.com</a></span> <br />
+    <span class="pill">🤖 n8n · FastAPI · Playwright · Selenium</span> <br />
     <span class="pill">📊 Python · SQL · Machine Learning · Power BI</span>
   </div>
   <div class="quick-links">
