@@ -1,5 +1,7 @@
 title: Divya Thakur Portfolio
 description: Portfolio site for Divya Thakur
+url: "https://divyathakur24.github.io"
+baseurl: "/DivyaThakurPortfolio"
 theme: minima
 markdown: kramdown
 header_pages:
