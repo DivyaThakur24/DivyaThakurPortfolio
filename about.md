@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Professional Summary
 
-Data Science Educator and Analyst with 6+ years of experience teaching Python, SQL, Power BI, Tableau, and Machine Learning to 50,000+ students across Udacity, Unacademy, Testbook, and Eduonix.
+**Data Science Educator and Analyst** with 6+ years of experience teaching **Python, SQL, Power BI, Tableau, and Machine Learning** to 50,000+ students across Udacity, Unacademy, Testbook, and Eduonix.
 
 Currently working as a **Data Automation Analyst at LabelNest**, building end-to-end automation pipelines and intelligence systems using **n8n AI Automation, FastAPI, Playwright, and Selenium**.
 
