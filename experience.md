@@ -42,7 +42,7 @@ permalink: /experience/
 - Created project-based learning curriculum achieving 92% student satisfaction
 
 ### Udacity | Mentor
-**Mar 2019 - Mar 2020**
+**July 2018 - Mar 2020**
 
 - Provided 1:1 mentorship for 80+ Data Analyst and Data Engineering Nanodegree students
 - Specialized in SQL query optimization, statistical testing, Python programming, and Tableau dashboards
