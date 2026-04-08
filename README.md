@@ -122,7 +122,7 @@ Alongside industry work, I have taught 50,000+ learners through platforms such a
 - Improved scalability of learner assessment and feedback workflows
 
 ### Udacity | Mentor
-**Mar 2019 - Mar 2020**
+**July 2018 - Mar 2020**
 
 - Mentored 80+ Data Analyst and Data Engineering Nanodegree learners
 - Supported SQL, experimentation, statistics, Python, and Tableau problem solving
